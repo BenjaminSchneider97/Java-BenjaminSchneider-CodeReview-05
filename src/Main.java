@@ -185,7 +185,7 @@ public class Main extends Application{
         //settings for primary stage
         primaryStage.setTitle("Set action prices");
         primaryStage.setScene(new Scene(root, 950, 580));
-        primaryStage.getIcons().add(new Image("/images/java-icon.png"));
+        primaryStage.getIcons().add(new Image("/images/Java-icon.png"));
         primaryStage.show();
     }
 
